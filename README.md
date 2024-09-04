@@ -5,7 +5,7 @@ A web app that analyzes and visualizes your spotify listening data.
 ## Features
 
 - Basic analytics (total tracks, total time played etc.)
-- View your latform and device usage history
+- View your platform and device usage history
 - View your most played tracks and artists
 - Analyze genre distribution
 - View listening patterns by time of day
