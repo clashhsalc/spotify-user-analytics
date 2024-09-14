@@ -18,7 +18,7 @@ Before using this dashboard, you need to request your data from Spotify:
 1. Go to your Spotify account page (https://www.spotify.com/account)
 2. Navigate to Privacy Settings
 3. Scroll down to "Download your data" and click "Request"
-4. Wait for Spotify to process your request (this can take up to 4 weeks)
+4. Wait for Spotify to process your request (this can take up to 3-4 weeks)
 5. Once ready, download your data and extract the JSON file
 
 ## Installation
