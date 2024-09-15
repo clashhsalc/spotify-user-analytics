@@ -1,4 +1,4 @@
-# Spotify Data Analytics Dashboard
+# [Spotify Data Analytics Dashboard](https://spotify-user-analytics.streamlit.app/)
 
 A web app that analyzes and visualizes your spotify listening data.
 
